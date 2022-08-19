@@ -22,7 +22,13 @@ export const products = [
     id: 3,
     name: 'Phone Standard',
     price: 299,
-    description: ''
+    description: 'praise be to daddy apple'
+  },
+  {
+    id: 4,
+    name: 'Samsung smart TV',
+    price: 3000,
+    description: 'big TV for all your family needs'
   }
 ];
 
